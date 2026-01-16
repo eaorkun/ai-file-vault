@@ -1,4 +1,4 @@
-# Abnormal File Vault
+# Palisade File Vault
 
 A full-stack file management application built with React and Django, designed for efficient file handling and storage.
 
